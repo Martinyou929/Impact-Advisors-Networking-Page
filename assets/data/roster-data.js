@@ -1362,5 +1362,15 @@ window.CONNECT_HUB_EMPLOYEES = [
         "location":  "Nashville",
         "linkedin":  "https://www.linkedin.com/in/holly-ezell-b8338330/",
         "email":  "Holly.ezell@impact-advisors.com"
+    },
+    {
+        "name":  "Anya Mehta",
+        "serviceLines":  [
+                             "Strategy & Operations"
+                         ],
+        "title":  "Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/anya-mehta-94209524a/",
+        "email":  "anya.mehta@impact-advisors.com"
     }
 ];

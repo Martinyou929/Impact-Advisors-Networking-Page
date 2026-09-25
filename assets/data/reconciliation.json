@@ -4,7 +4,7 @@
     "workbookRosterRows":  139,
     "validExcelRows":  136,
     "uniqueEmployees":  136,
-    "generatedWebsiteRecords":  136,
+    "generatedWebsiteRecords":  137,
     "duplicateOrInvalidRows":  3,
     "countByServiceLine":  {
                                "Clinical Optimization":  8,
@@ -16,10 +16,12 @@
                                "Revenu Cycle Margin Improvement - Oracle Health":  11,
                                "Revenue Cycle Managed Services":  16,
                                "Revenue Cycle Margin Improvement":  16,
+                               "Strategy & Operations":  1,
                                "Supply Chain":  15
                            },
     "added":  [
-                  "Holly Ezell"
+                  "Holly Ezell",
+                  "Anya Mehta"
               ],
     "updated":  [
 
