@@ -121,16 +121,6 @@ window.CONNECT_HUB_EMPLOYEES = [
         "email":  "isabella.diruscio@impact-advisors.com"
     },
     {
-        "name":  "Ellie Friedewald",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
-        "title":  "Consultant",
-        "location":  "Chicago",
-        "linkedin":  "https://www.linkedin.com/in/ellie-friedewald/",
-        "email":  "ellie.friedewald@impact-advisors.com"
-    },
-    {
         "name":  "Lisa Bragg",
         "serviceLines":  [
                              "Clinical Optimization"
@@ -1382,5 +1372,15 @@ window.CONNECT_HUB_EMPLOYEES = [
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/anya-mehta-94209524a/",
         "email":  "anya.mehta@impact-advisors.com"
+    },
+    {
+        "name":  "Ellie Friedewald",
+        "serviceLines":  [
+                             "Supply Chain"
+                         ],
+        "title":  "Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/ellie-friedewald/",
+        "email":  "ellie.friedewald@impact-advisors.com"
     }
 ];
