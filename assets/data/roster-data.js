@@ -31,6 +31,16 @@ window.CONNECT_HUB_EMPLOYEES = [
         "email":  "jim.armstrong@impact-advisors.com"
     },
     {
+        "name":  "Melissa Lyden",
+        "serviceLines":  [
+                             "Revenue Cycle Margin Improvement"
+                         ],
+        "title":  "Consultant",
+        "location":  "Virginia",
+        "linkedin":  "https://www.linkedin.com/in/melissa-lyden/",
+        "email":  "melissa.lyden@impact-advisors.com"
+    },
+    {
         "name":  "Devon Thornton",
         "serviceLines":  [
                              "Supply Chain"
@@ -1382,5 +1392,75 @@ window.CONNECT_HUB_EMPLOYEES = [
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/ellie-friedewald/",
         "email":  "ellie.friedewald@impact-advisors.com"
+    },
+    {
+        "name":  "Amanda Ruud",
+        "serviceLines":  [
+                             "Labor"
+                         ],
+        "title":  "Managing Consultant",
+        "location":  "Washington",
+        "linkedin":  "https://www.linkedin.com/in/amanda-ruud-msn-rn-cnor/",
+        "email":  "amanda.ruud@impact-advisors.com"
+    },
+    {
+        "name":  "Angela Velella",
+        "serviceLines":  [
+                             "Operational Excellence"
+                         ],
+        "title":  "Associate Director",
+        "location":  "Florida",
+        "linkedin":  "https://www.linkedin.com/in/angela-velella/",
+        "email":  "angela.velella@impact-advisors.com"
+    },
+    {
+        "name":  "Austin Stonecash",
+        "serviceLines":  [
+                             "Supply Chain"
+                         ],
+        "title":  "Managing Consultant",
+        "location":  "Ohio",
+        "linkedin":  "https://www.linkedin.com/in/austin-stonecash/",
+        "email":  "austin.stonecash@impact-advisors.com"
+    },
+    {
+        "name":  "Ava Owens",
+        "serviceLines":  [
+                             "Quality"
+                         ],
+        "title":  "Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/ava-owens/",
+        "email":  "ava.owens@impact-advisors.com"
+    },
+    {
+        "name":  "Bella Brown",
+        "serviceLines":  [
+                             "Other Margin Improvement"
+                         ],
+        "title":  "Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/bella-brown/",
+        "email":  "isabella.brown@impact-advisors.com"
+    },
+    {
+        "name":  "Brennan Aguila",
+        "serviceLines":  [
+                             "Other Margin Improvement"
+                         ],
+        "title":  "Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/brennan-aguila/",
+        "email":  "brennan.aguila@impact-advisors.com"
+    },
+    {
+        "name":  "Brooke Beccari",
+        "serviceLines":  [
+                             "Revenue Cycle Margin Improvement"
+                         ],
+        "title":  "Senior Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/brooke-beccari/",
+        "email":  "brooke.beccari@impact-advisors.com"
     }
 ];
