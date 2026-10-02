@@ -1376,7 +1376,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "Anya Mehta",
         "serviceLines":  [
-                             "Strategy & Operations"
+                             "Labor"
                          ],
         "title":  "Consultant",
         "location":  "Chicago",
@@ -1386,7 +1386,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "Ellie Friedewald",
         "serviceLines":  [
-                             "Supply Chain"
+                             "Other Margin Improvement"
                          ],
         "title":  "Consultant",
         "location":  "Chicago",
@@ -1426,7 +1426,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "Ava Owens",
         "serviceLines":  [
-                             "Quality"
+                             "Other Margin Improvement"
                          ],
         "title":  "Consultant",
         "location":  "Chicago",
@@ -1462,5 +1462,95 @@ window.CONNECT_HUB_EMPLOYEES = [
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/brooke-beccari/",
         "email":  "brooke.beccari@impact-advisors.com"
+    },
+    {
+        "name":  "Chaitra Murthy",
+        "serviceLines":  [
+                             "Physician Enterprise Services"
+                         ],
+        "title":  "Senior Consultant",
+        "location":  "New York",
+        "linkedin":  "https://www.linkedin.com/in/chaitra-murthy/",
+        "email":  "chaitra.murthy@impact-advisors.com"
+    },
+    {
+        "name":  "Deeksha Sreenivasan",
+        "serviceLines":  [
+                             "Other Margin Improvement"
+                         ],
+        "title":  "Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/deeksha-sreenivasan/",
+        "email":  "deeksha.sreenivasan@impact-advisors.com"
+    },
+    {
+        "name":  "Deshelia Watson",
+        "serviceLines":  [
+                             "Revenue Cycle Margin Improvement"
+                         ],
+        "title":  "Senior Consultant",
+        "location":  "North Carolina",
+        "linkedin":  "https://www.linkedin.com/in/deshelia-watson/",
+        "email":  "deshelia.watson@impact-advisors.com"
+    },
+    {
+        "name":  "Drew Nicolaou",
+        "serviceLines":  [
+                             "Quality"
+                         ],
+        "title":  "Consultant",
+        "location":  "Indiana",
+        "linkedin":  "https://www.linkedin.com/in/andreas-nicolaou/",
+        "email":  "andreas.nicolaou@impact-advisors.com"
+    },
+    {
+        "name":  "Helen DeFlorin",
+        "serviceLines":  [
+                             "Physician Enterprise Services"
+                         ],
+        "title":  "Associate Director",
+        "location":  "Minnesota",
+        "linkedin":  "https://www.linkedin.com/in/helen-deflorin/",
+        "email":  "helen.deflorin@impact-advisors.com"
+    },
+    {
+        "name":  "Jack Ryan",
+        "serviceLines":  [
+                             "Supply Chain"
+                         ],
+        "title":  "Managing Consultant",
+        "location":  "Michigan",
+        "linkedin":  "https://www.linkedin.com/in/jack-ryan/",
+        "email":  "jack.ryan@impact-advisors.com"
+    },
+    {
+        "name":  "Justus Stanback",
+        "serviceLines":  [
+                             "Physician Enterprise Services"
+                         ],
+        "title":  "Senior Consultant",
+        "location":  "Florida",
+        "linkedin":  "https://www.linkedin.com/in/justus-stanback/",
+        "email":  "justus.stanback@impact-advisors.com"
+    },
+    {
+        "name":  "Kate Walsh",
+        "serviceLines":  [
+                             "Quality"
+                         ],
+        "title":  "Managing Consultant",
+        "location":  "New Jersey",
+        "linkedin":  "https://www.linkedin.com/in/kate-walsh/",
+        "email":  "kate.walsh@impact-advisors.com"
+    },
+    {
+        "name":  "Ryan McPherson",
+        "serviceLines":  [
+                             "Other Margin Improvement"
+                         ],
+        "title":  "Managing Director",
+        "location":  "Georgia",
+        "linkedin":  "https://www.linkedin.com/in/ryan-mcpherson/",
+        "email":  "ryan.mcpherson@impact-advisors.com"
     }
 ];
