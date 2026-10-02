@@ -769,14 +769,6 @@ window.CONNECT_HUB_EMPLOYEES = [
         "email":  "sean.wydra@impact-advisors.com"
     },
     {
-        "name":  "Shreya Jeyakumar",
-        "serviceLine":  "Physician Enterprise Services",
-        "title":  "Senior Consultant",
-        "location":  "Chicago",
-        "linkedin":  "https://www.linkedin.com/in/shreyajeyakumar/",
-        "email":  "shreya.jeyakumar@impact-advisors.com"
-    },
-    {
         "name":  "Henry Wood",
         "serviceLine":  "Physician Enterprise Services",
         "title":  "Senior Consultant",
