@@ -2,9 +2,7 @@
 window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "Mike Gordon",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Managing Director",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/michaelgordon20/",
@@ -12,9 +10,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Osvaldo Torres",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Director",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/osvaldo-torres-7bb50223/",
@@ -22,29 +18,15 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Jim Armstrong",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Associate Director",
         "location":  "Michigan",
         "linkedin":  "https://www.linkedin.com/in/jim-armstrong-ab102b46/",
         "email":  "jim.armstrong@impact-advisors.com"
     },
     {
-        "name":  "Melissa Lyden",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
-        "title":  "Consultant",
-        "location":  "Virginia",
-        "linkedin":  "https://www.linkedin.com/in/melissa-lyden/",
-        "email":  "melissa.lyden@impact-advisors.com"
-    },
-    {
         "name":  "Devon Thornton",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Managing Consultant",
         "location":  "Kansas",
         "linkedin":  "https://www.linkedin.com/in/devon-thornton-9098252b/",
@@ -52,9 +34,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Jennifer Lopez",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Managing Consultant",
         "location":  "Florida",
         "linkedin":  "https://www.linkedin.com/in/jennifer-lopez-mba/",
@@ -62,9 +42,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Jason Marvin",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Managing Consultant",
         "location":  "Alabama",
         "linkedin":  "https://www.linkedin.com/in/jason-marvin-msha-516588130/",
@@ -72,9 +50,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Brinkley Gary",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Managing Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/brinkley-gary/",
@@ -82,9 +58,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Chana Roller",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Managing Consultant",
         "location":  "Tennessee",
         "linkedin":  "https://www.linkedin.com/in/chana-roller-mba-68270956/",
@@ -92,9 +66,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Haley Precia",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Managing Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/haley-precia-2798b8a1/",
@@ -102,9 +74,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Mitchell Brittain",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Senior Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/mkb6/",
@@ -112,9 +82,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Morgan Ledford",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Senior Consultant",
         "location":  "Wisconsin",
         "linkedin":  "https://www.linkedin.com/in/morgan-ledford-8a2470215/",
@@ -122,9 +90,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Isabella Diruscio",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Senior Consultant",
         "location":  "Colorado",
         "linkedin":  "https://www.linkedin.com/in/isabella-diruscio/",
@@ -132,30 +98,15 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Lisa Bragg",
-        "serviceLines":  [
-                             "Clinical Optimization"
-                         ],
+        "serviceLine":  "Clinical Optimization",
         "title":  "Managing Director",
         "location":  "Tennessee",
         "linkedin":  "https://www.linkedin.com/in/lisambragg/",
         "email":  "lisa.bragg@impact-advisors.com"
     },
     {
-        "name":  "Kaye Reiter",
-        "serviceLines":  [
-                             "Clinical Optimization",
-                             "Labor"
-                         ],
-        "title":  "Director",
-        "location":  "Colorado",
-        "linkedin":  "https://www.linkedin.com/in/kaye-reiter-msn-rn-ne-bc-97948061/",
-        "email":  "kaye.reiter@impact-advisors.com"
-    },
-    {
         "name":  "Tammy Willett",
-        "serviceLines":  [
-                             "Clinical Optimization"
-                         ],
+        "serviceLine":  "Clinical Optimization",
         "title":  "Associate Director",
         "location":  "Nevada",
         "linkedin":  "https://www.linkedin.com/in/tjawillett/",
@@ -163,9 +114,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Alec Farmer",
-        "serviceLines":  [
-                             "Clinical Optimization"
-                         ],
+        "serviceLine":  "Clinical Optimization",
         "title":  "Associate Director",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/alec-farmer-59805190/",
@@ -173,9 +122,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Michelle Silver",
-        "serviceLines":  [
-                             "Clinical Optimization"
-                         ],
+        "serviceLine":  "Clinical Optimization",
         "title":  "Managing Consultant",
         "location":  "Ohio",
         "linkedin":  "https://www.linkedin.com/in/michellesilverrn/",
@@ -183,41 +130,15 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Connie McNeely",
-        "serviceLines":  [
-                             "Clinical Optimization"
-                         ],
+        "serviceLine":  "Clinical Optimization",
         "title":  "Managing Consultant",
         "location":  "Montana",
         "linkedin":  "https://www.linkedin.com/in/connieblackford/",
         "email":  "connie.mcneely@impact-advisors.com"
     },
     {
-        "name":  "Melissa Lingle",
-        "serviceLines":  [
-                             "Clinical Optimization",
-                             "Labor"
-                         ],
-        "title":  "Managing Consultant",
-        "location":  "Ohio",
-        "linkedin":  "https://www.linkedin.com/in/melissa-lingle-aa59b421/",
-        "email":  "melissa.lingle@impact-advisors.com"
-    },
-    {
-        "name":  "Fernando Rubio-Mijangos",
-        "serviceLines":  [
-                             "Clinical Optimization",
-                             "Quality"
-                         ],
-        "title":  "Senior Consultant",
-        "location":  "Chicago",
-        "linkedin":  "https://www.linkedin.com/in/fernando-rubio-mijangos-96170abb/?locale=en",
-        "email":  "fernando.rubiomijangos@impact-advisors.com"
-    },
-    {
         "name":  "Jim Akimchuk",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Director",
         "location":  "New Hampshire",
         "linkedin":  "https://www.linkedin.com/in/james-akimchuk-8427804/",
@@ -225,19 +146,15 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Kris Rickhoff",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Director",
         "location":  "Illinois",
         "linkedin":  "https://www.linkedin.com/in/kris-rickhoff-mba-rhit/",
         "email":  "kristina.rickhoff@impact-advisors.com"
     },
     {
-        "name":  "Brian Junghans (VP)",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "name":  "Brian Junghans",
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Director",
         "location":  "Tennessee",
         "linkedin":  "https://www.linkedin.com/in/brian-junghans-027759/",
@@ -245,9 +162,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Elizabeth Anderson",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Director",
         "location":  "Colorado",
         "linkedin":  "https://www.linkedin.com/in/liz-anderson-it-project-manager/",
@@ -255,9 +170,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Robin Bruce",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Director",
         "location":  "Tennessee",
         "linkedin":  "https://www.linkedin.com/in/robin-bruce-529a1a68/",
@@ -265,9 +178,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Kristin Berlin",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Director",
         "location":  "Colorado",
         "linkedin":  "https://www.linkedin.com/in/kristin-berlin-bsn-crcr-8334896/",
@@ -275,9 +186,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Nicholas Lankford",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Director",
         "location":  "Washington",
         "linkedin":  "https://www.linkedin.com/in/nick-lankford-3659634/",
@@ -285,9 +194,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Joel Hammer",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Director",
         "location":  "Ohio",
         "linkedin":  "https://www.linkedin.com/in/hammerjoel/",
@@ -295,9 +202,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Kelsey Turasky",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Associate Director",
         "location":  "Illinois",
         "linkedin":  "https://www.linkedin.com/in/kelseyedmonds/",
@@ -305,9 +210,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Kristen Camara",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Associate Director",
         "location":  "California",
         "linkedin":  "https://www.linkedin.com/in/kristen-camara/",
@@ -315,9 +218,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Emily Vlietstra",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Associate Director",
         "location":  "South Dakota",
         "linkedin":  "https://www.linkedin.com/in/emily-vlietstra-984a98266/",
@@ -325,9 +226,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Michael Sanders",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Associate Director",
         "location":  "Texas",
         "linkedin":  "https://www.linkedin.com/in/michael-sanders-mba-29738711/",
@@ -335,9 +234,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Andrew Kraemer",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Associate Director",
         "location":  "South Carolina",
         "linkedin":  "https://www.linkedin.com/in/andrew-k-53661935/",
@@ -345,9 +242,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Lisa Thompson",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Associate Director",
         "location":  "Nebraska",
         "linkedin":  "",
@@ -355,9 +250,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Mindi Bolssen",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Associate Director",
         "location":  "Wisconsin",
         "linkedin":  "https://www.linkedin.com/in/mindi-b-2a36488/",
@@ -365,9 +258,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Christopher Owens",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Associate Director",
         "location":  "Florida",
         "linkedin":  "https://www.linkedin.com/in/chris-owens-a322a3b/",
@@ -375,9 +266,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Patricia Schlemmer",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Associate Director",
         "location":  "New York",
         "linkedin":  "https://www.linkedin.com/in/tricia-dockree-821b453a/",
@@ -385,9 +274,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Stuart Fedderson",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Associate Director",
         "location":  "Utah",
         "linkedin":  "https://www.linkedin.com/in/stuart-fedderson-mba-59953753/",
@@ -395,9 +282,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Mitch Valentine",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Associate Director",
         "location":  "North Carolina",
         "linkedin":  "https://www.linkedin.com/in/mitch-valentine-093866152/",
@@ -405,9 +290,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Kelly Carrier",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Associate Director",
         "location":  "Wisconsin",
         "linkedin":  "https://www.linkedin.com/in/kellycarrier/",
@@ -415,9 +298,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Chris Mullican",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Consultant",
         "location":  "Tennessee",
         "linkedin":  "https://www.linkedin.com/in/chris-mullican-7547a71b/",
@@ -425,9 +306,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Mary Wemhoff",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Consultant",
         "location":  "Colorado",
         "linkedin":  "https://www.linkedin.com/in/mary-wemhoff-7aa1165/",
@@ -435,9 +314,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Lori Williamson",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Consultant",
         "location":  "Georgia",
         "linkedin":  "https://www.linkedin.com/in/lorineu/",
@@ -445,9 +322,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Michael Berthiaune",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Consultant",
         "location":  "Massachusetts",
         "linkedin":  "https://www.linkedin.com/in/michael-berthiaume-05b2a619/",
@@ -455,9 +330,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Cason Dwyer",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Consultant",
         "location":  "Virginia",
         "linkedin":  "https://www.linkedin.com/in/casondwyer/",
@@ -465,9 +338,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Letitia Arroyo",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Consultant",
         "location":  "Colorado",
         "linkedin":  "https://www.linkedin.com/in/leticiabugarin/",
@@ -475,9 +346,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Christy Peterson",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Consultant",
         "location":  "Texas",
         "linkedin":  "https://www.linkedin.com/in/christy4naturaloptions/",
@@ -485,9 +354,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Alex Gookins",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Consultant",
         "location":  "Indiana",
         "linkedin":  "https://www.linkedin.com/in/alexgookins/",
@@ -495,9 +362,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Sarah Harb",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Consultant",
         "location":  "Virginia",
         "linkedin":  "https://www.linkedin.com/in/sarahharb/",
@@ -505,9 +370,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Karen Hopkins",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Consultant",
         "location":  "Ohio",
         "linkedin":  "https://www.linkedin.com/in/karen-hopkins-2097b9126/",
@@ -515,9 +378,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "April Byrd",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Consultant",
         "location":  "Idaho",
         "linkedin":  "https://www.linkedin.com/in/cleanclaimconsulting/",
@@ -525,9 +386,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Diane Powell",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Consultant",
         "location":  "Ohio",
         "linkedin":  "https://www.linkedin.com/in/diane-powell-13b94733b/",
@@ -535,9 +394,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Carl Czajczynski",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Managing Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/carl-czajczynski-mba-9bba513/",
@@ -545,9 +402,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Taylor Romano",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Senior Consultant",
         "location":  "Michigan",
         "linkedin":  "https://www.linkedin.com/in/taylor-romano-07816b7b/",
@@ -555,9 +410,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "JJ Manning",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Senior Consultant",
         "location":  "Colorado",
         "linkedin":  "https://www.linkedin.com/in/jj-manning-mba-7971359a/",
@@ -565,9 +418,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Lily O\u0027Flaherty",
-        "serviceLines":  [
-                             "Quality"
-                         ],
+        "serviceLine":  "Quality",
         "title":  "Director",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/lily-oflaherty/",
@@ -575,9 +426,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Saakshi Thukral",
-        "serviceLines":  [
-                             "Quality"
-                         ],
+        "serviceLine":  "Quality",
         "title":  "Managing Consultant",
         "location":  "Tennessee",
         "linkedin":  "https://www.linkedin.com/in/saakshi-thukral-610130163/",
@@ -585,19 +434,23 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Sarah Strom",
-        "serviceLines":  [
-                             "Quality"
-                         ],
+        "serviceLine":  "Quality",
         "title":  "Managing Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/sarahstrom4/",
         "email":  "sarah.strom@impact-advisors.com"
     },
     {
+        "name":  "Fernando Rubio Mijangos",
+        "serviceLine":  "",
+        "title":  "Senior Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/fernando-rubio-mijangos-96170abb/?locale=en",
+        "email":  "fernando.rubiomijangos@impact-advisors.com"
+    },
+    {
         "name":  "Anwer Khan",
-        "serviceLines":  [
-                             "Health Plan Practice"
-                         ],
+        "serviceLine":  "Health Plan Practice",
         "title":  "Managing Director",
         "location":  "California",
         "linkedin":  "https://www.linkedin.com/in/anwer-khan-9287623/",
@@ -605,9 +458,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Ash Shehata",
-        "serviceLines":  [
-                             "Health Plan Practice"
-                         ],
+        "serviceLine":  "Health Plan Practice",
         "title":  "Managing Director",
         "location":  "Ohio",
         "linkedin":  "https://www.linkedin.com/in/ashraf-ash-shehata-415111/",
@@ -615,9 +466,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Virginia Venable",
-        "serviceLines":  [
-                             "Health Plan Practice"
-                         ],
+        "serviceLine":  "Health Plan Practice",
         "title":  "Director",
         "location":  "Illinois",
         "linkedin":  "https://www.linkedin.com/in/virginia-venable-b301a1/",
@@ -625,9 +474,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Susan Suarez",
-        "serviceLines":  [
-                             "Health Plan Practice"
-                         ],
+        "serviceLine":  "Health Plan Practice",
         "title":  "Associate Director",
         "location":  "New Jersey",
         "linkedin":  "https://www.linkedin.com/in/susan-suarez-pesce-braun-dnp-msn-rn-ccm-206a0139/",
@@ -635,9 +482,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Sylvia Huq",
-        "serviceLines":  [
-                             "Health Plan Practice"
-                         ],
+        "serviceLine":  "Health Plan Practice",
         "title":  "Managing Consultant",
         "location":  "New York",
         "linkedin":  "https://www.linkedin.com/in/sylvia-huq-22a808128/",
@@ -645,9 +490,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Katie Dongoski",
-        "serviceLines":  [
-                             "Health Plan Practice"
-                         ],
+        "serviceLine":  "Health Plan Practice",
         "title":  "Senior Consultant",
         "location":  "Illinois",
         "linkedin":  "https://www.linkedin.com/in/katiedongoski/",
@@ -655,9 +498,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Yumi Kim",
-        "serviceLines":  [
-                             "Health Plan Practice"
-                         ],
+        "serviceLine":  "Health Plan Practice",
         "title":  "Senior Consultant",
         "location":  "Massachusetts",
         "linkedin":  "https://www.linkedin.com/in/yumimunkim/",
@@ -665,9 +506,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Kamran Panjwani",
-        "serviceLines":  [
-                             "Health Plan Practice"
-                         ],
+        "serviceLine":  "Health Plan Practice",
         "title":  "Senior Consultant",
         "location":  "Georgia",
         "linkedin":  "https://www.linkedin.com/in/kamranpanjwani/",
@@ -675,9 +514,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Glenn Leininger",
-        "serviceLines":  [
-                             "Health Plan Practice"
-                         ],
+        "serviceLine":  "Health Plan Practice",
         "title":  "Senior Consultant",
         "location":  "Arizona",
         "linkedin":  "https://www.linkedin.com/in/glennleininger/",
@@ -685,9 +522,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Dave LeClercq",
-        "serviceLines":  [
-                             "Labor"
-                         ],
+        "serviceLine":  "Labor",
         "title":  "Managing Director",
         "location":  "Florida",
         "linkedin":  "https://www.linkedin.com/in/david-leclercq-517a303/",
@@ -695,9 +530,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Justin Busby",
-        "serviceLines":  [
-                             "Labor"
-                         ],
+        "serviceLine":  "Labor",
         "title":  "Director",
         "location":  "North Carolina",
         "linkedin":  "https://www.linkedin.com/in/justin-busby-future-of-healthcare/",
@@ -705,19 +538,23 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Betsie Sassen",
-        "serviceLines":  [
-                             "Labor"
-                         ],
+        "serviceLine":  "Labor",
         "title":  "Director",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/betsie-sassen-r-n-m-s-n-7a6129a/",
         "email":  "betsie.sassen@impact-advisors.com"
     },
     {
+        "name":  "Kaye Reiter",
+        "serviceLine":  "Labor",
+        "title":  "Director",
+        "location":  "Colorado",
+        "linkedin":  "https://www.linkedin.com/in/kaye-reiter-msn-rn-ne-bc-97948061/",
+        "email":  "kaye.reiter@impact-advisors.com"
+    },
+    {
         "name":  "Maggie Mahowald",
-        "serviceLines":  [
-                             "Labor"
-                         ],
+        "serviceLine":  "Labor",
         "title":  "Associate Director",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/maggie-mahowald-3916776b/",
@@ -725,9 +562,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Thomas Frevert",
-        "serviceLines":  [
-                             "Labor"
-                         ],
+        "serviceLine":  "Labor",
         "title":  "Associate Director",
         "location":  "Florida",
         "linkedin":  "https://www.linkedin.com/in/tom-frevert-20203817/",
@@ -735,9 +570,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Ellen Verlen",
-        "serviceLines":  [
-                             "Labor"
-                         ],
+        "serviceLine":  "Labor",
         "title":  "Managing Consultant",
         "location":  "Florida",
         "linkedin":  "https://www.linkedin.com/in/ellen-verlen-05488335/",
@@ -745,19 +578,23 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Grant LeClercq",
-        "serviceLines":  [
-                             "Labor"
-                         ],
+        "serviceLine":  "Labor",
         "title":  "Managing Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/grant-leclercq-a71686105/",
         "email":  "grant.leclercq@impact-advisors.com"
     },
     {
+        "name":  "Melissa Lingle",
+        "serviceLine":  "Labor",
+        "title":  "Managing Consultant",
+        "location":  "Ohio",
+        "linkedin":  "https://www.linkedin.com/in/melissa-lingle-aa59b421/",
+        "email":  "melissa.lingle@impact-advisors.com"
+    },
+    {
         "name":  "Tony Ladas",
-        "serviceLines":  [
-                             "Labor"
-                         ],
+        "serviceLine":  "Labor",
         "title":  "Senior Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/tonyladas/",
@@ -765,9 +602,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Ryan Smith",
-        "serviceLines":  [
-                             "RCMI - Oracle Health"
-                         ],
+        "serviceLine":  "RCMI - Oracle Health",
         "title":  "Managing Director",
         "location":  "Oklahoma",
         "linkedin":  "https://www.linkedin.com/in/ryan-s-44887675/",
@@ -775,9 +610,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Zach Johnson",
-        "serviceLines":  [
-                             "RCMI - Oracle Health"
-                         ],
+        "serviceLine":  "RCMI - Oracle Health",
         "title":  "Director",
         "location":  "Wisconsin",
         "linkedin":  "https://www.linkedin.com/in/zach-johnson-cc/",
@@ -785,9 +618,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Nick Stipanovich",
-        "serviceLines":  [
-                             "RCMI - Oracle Health"
-                         ],
+        "serviceLine":  "RCMI - Oracle Health",
         "title":  "Director",
         "location":  "Montana",
         "linkedin":  "https://www.linkedin.com/in/nick-stipanovich-22b0bb36/",
@@ -795,9 +626,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Evan McAfee",
-        "serviceLines":  [
-                             "RCMI - Oracle Health"
-                         ],
+        "serviceLine":  "RCMI - Oracle Health",
         "title":  "Associate Director",
         "location":  "Montana",
         "linkedin":  "https://www.linkedin.com/in/evan-mcafee-122959339/",
@@ -805,9 +634,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Andrea Chancellor",
-        "serviceLines":  [
-                             "RCMI - Oracle Health"
-                         ],
+        "serviceLine":  "RCMI - Oracle Health",
         "title":  "Associate Director",
         "location":  "Montana",
         "linkedin":  "https://www.linkedin.com/in/andrea-chancellor-pmp-62b99b16/",
@@ -815,9 +642,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Quin Oglesby",
-        "serviceLines":  [
-                             "RCMI - Oracle Health"
-                         ],
+        "serviceLine":  "RCMI - Oracle Health",
         "title":  "Associate Director",
         "location":  "Florida",
         "linkedin":  "https://www.linkedin.com/in/quinnoglesby/",
@@ -825,9 +650,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Justin Gilliam",
-        "serviceLines":  [
-                             "RCMI - Oracle Health"
-                         ],
+        "serviceLine":  "RCMI - Oracle Health",
         "title":  "Associate Director",
         "location":  "Michigan",
         "linkedin":  "https://www.linkedin.com/in/justingilliam/",
@@ -835,9 +658,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "David Klinkhardt",
-        "serviceLines":  [
-                             "RCMI - Oracle Health"
-                         ],
+        "serviceLine":  "RCMI - Oracle Health",
         "title":  "Managing Consultant",
         "location":  "Kansas",
         "linkedin":  "https://www.linkedin.com/in/david-klinkhardt-2a31b9122/",
@@ -845,9 +666,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Brett Reynolds",
-        "serviceLines":  [
-                             "RCMI  - Oracle Health"
-                         ],
+        "serviceLine":  "RCMI - Oracle Health",
         "title":  "Managing Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/brett-reynolds167/",
@@ -855,9 +674,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Michael Cusick",
-        "serviceLines":  [
-                             "RCMI - Oracle Health"
-                         ],
+        "serviceLine":  "RCMI - Oracle Health",
         "title":  "Managing Consultant",
         "location":  "Texas",
         "linkedin":  "https://www.linkedin.com/in/michael-cusick-61198917/",
@@ -865,9 +682,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Josh Lake",
-        "serviceLines":  [
-                             "RCMI - Oracle Health"
-                         ],
+        "serviceLine":  "RCMI - Oracle Health",
         "title":  "Senior Consultant",
         "location":  "Pennsylvania",
         "linkedin":  "https://www.linkedin.com/in/joshua-lake-mba-chfp-12b3b8119/",
@@ -875,9 +690,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Paige Ratliff",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Managing Director",
         "location":  "Montana",
         "linkedin":  "https://www.linkedin.com/in/paige-ratliff-84207656/",
@@ -885,9 +698,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Dan Dooley",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Managing Director",
         "location":  "Michigan",
         "linkedin":  "",
@@ -895,9 +706,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Patty Marenghi",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Director",
         "location":  "Texas",
         "linkedin":  "https://www.linkedin.com/in/patty-marenghi-028929b7/",
@@ -905,9 +714,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "John Rockwell",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Associate Director",
         "location":  "Virginia",
         "linkedin":  "https://www.linkedin.com/in/johnarockwell/",
@@ -915,9 +722,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Stephen Liebowitz",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Associate Director",
         "location":  "Connecticut",
         "linkedin":  "https://www.linkedin.com/in/stephenliebowitz/",
@@ -925,9 +730,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Lucie Tolan",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Associate Director",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/lucietolan/",
@@ -935,9 +738,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Evan Morud",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Associate Director",
         "location":  "Minnesota",
         "linkedin":  "https://www.linkedin.com/in/evanmorud/",
@@ -945,9 +746,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Jennifer Duyst",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Associate Director",
         "location":  "California",
         "linkedin":  "https://www.linkedin.com/in/jennifer-duyst-fnp-bc-fache-msn/",
@@ -955,9 +754,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Shelly Wellhouse",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Associate Director",
         "location":  "Wisconsin",
         "linkedin":  "https://www.linkedin.com/in/shelly-welhouse-30915b50/",
@@ -965,9 +762,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Sean Wydra",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Managing Consultant",
         "location":  "North Carolina",
         "linkedin":  "https://www.linkedin.com/in/sean-wydra-81b7791b9/",
@@ -975,9 +770,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Shreya Jeyakumar",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Senior Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/shreyajeyakumar/",
@@ -985,9 +778,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Henry Wood",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Senior Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/henry-wood-68b270172/",
@@ -995,9 +786,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Randy Notes",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Managing Director",
         "location":  "Florida",
         "linkedin":  "https://www.linkedin.com/in/randynotes/",
@@ -1005,9 +794,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Doug Story",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Managing Director",
         "location":  "Tennessee",
         "linkedin":  "https://www.linkedin.com/in/doug-story-11356840/",
@@ -1015,9 +802,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Will Ikier",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Managing Director",
         "location":  "Massachusetts",
         "linkedin":  "https://www.linkedin.com/in/william-ikier-a3956519/",
@@ -1025,9 +810,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Candace Rogerson",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Director",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/candace-rogerson-6846864b/",
@@ -1035,9 +818,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Kayla Lawrie",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Associate Director",
         "location":  "New Jersey",
         "linkedin":  "https://www.linkedin.com/in/kaylalawrie/",
@@ -1045,9 +826,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Kyle Boudreau",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Managing Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/kyle-boudreau-mba/",
@@ -1055,9 +834,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Monica Dupaix",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Managing Consultant",
         "location":  "California",
         "linkedin":  "https://www.linkedin.com/in/monica-dupaix/",
@@ -1065,9 +842,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Sam DePaz",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Managing Consultant",
         "location":  "Michigan",
         "linkedin":  "https://www.linkedin.com/in/samuel-depaz-87206753/",
@@ -1075,9 +850,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Lauren Thompson",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Senior Consultant",
         "location":  "Florida",
         "linkedin":  "https://www.linkedin.com/in/lauren-thompson-73545a68/",
@@ -1085,9 +858,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Nicole Orpano",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Senior Consultant",
         "location":  "South Carolina",
         "linkedin":  "https://www.linkedin.com/in/nicolelhaas/",
@@ -1095,9 +866,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Paul Sirakowski",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Senior Consultant",
         "location":  "New York",
         "linkedin":  "https://www.linkedin.com/in/paul-sirakowski/",
@@ -1105,9 +874,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Jackson Kithcart",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Senior Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/jacksonkithcart/",
@@ -1115,9 +882,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Catherine Park",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Senior Consultant",
         "location":  "Georgia",
         "linkedin":  "https://www.linkedin.com/in/catherinepark1/",
@@ -1125,9 +890,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Wes Arnett",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "President",
         "location":  "Connecticut",
         "linkedin":  "https://www.linkedin.com/in/wes-arnett/",
@@ -1135,9 +898,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Christopher McDonald",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Managing Director",
         "location":  "Texas",
         "linkedin":  "https://www.linkedin.com/in/christophermcdonald/",
@@ -1145,9 +906,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Patrick O\u0027connor",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Managing Director",
         "location":  "Maryland",
         "linkedin":  "https://www.linkedin.com/in/patrickoconnorjr/",
@@ -1155,9 +914,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Steve Bernard",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Senior Vice President",
         "location":  "Michigan",
         "linkedin":  "https://www.linkedin.com/in/stephen-m-bernard/",
@@ -1165,9 +922,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Conyers Poole",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Vice President",
         "location":  "Alabama",
         "linkedin":  "https://www.linkedin.com/in/conyers-poole-5a719711/",
@@ -1175,9 +930,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Darbi Shanker",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Vice President",
         "location":  "Maryland",
         "linkedin":  "https://www.linkedin.com/in/darbi-shanker-2b5b18a/?skipRedirect=true",
@@ -1185,9 +938,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Kristin Costanzo",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Vice President",
         "location":  "Alabama",
         "linkedin":  "https://www.linkedin.com/in/kristin-costanzo-931498380/",
@@ -1195,9 +946,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Amber Thomas",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Vice President",
         "location":  "Washington",
         "linkedin":  "https://www.linkedin.com/in/amber-thomas-jd/",
@@ -1205,9 +954,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Danielle Voss",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Vice President",
         "location":  "Wisconsin",
         "linkedin":  "https://www.linkedin.com/in/danivoss/",
@@ -1215,9 +962,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Sarah Angerhofer",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Director",
         "location":  "New Hampshire",
         "linkedin":  "https://www.linkedin.com/in/sarahellenrcm/",
@@ -1225,9 +970,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Teresa Sutton",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Director",
         "location":  "Nevada",
         "linkedin":  "https://www.linkedin.com/in/-teresa-sutton/",
@@ -1235,9 +978,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Ryan Gavrilles",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Director",
         "location":  "Massachusetts",
         "linkedin":  "https://www.linkedin.com/in/rgavrilles/",
@@ -1245,9 +986,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Robyn O\u0027Connell",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Associate Director",
         "location":  "New Hampshire",
         "linkedin":  "https://www.linkedin.com/in/reoconnell/",
@@ -1255,9 +994,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Andrea Feldmann",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Managing Consultant",
         "location":  "Kentucky",
         "linkedin":  "https://www.linkedin.com/in/andrea-feldmann-0095136/",
@@ -1265,9 +1002,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Corey Armstrong",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Managing Consultant",
         "location":  "Massachusetts",
         "linkedin":  "https://www.linkedin.com/in/coreyarmstrong1/",
@@ -1275,9 +1010,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Jenifer Vaught",
-        "serviceLines":  [
-                             "Revenue Cycle Managed Services"
-                         ],
+        "serviceLine":  "Revenue Cycle Managed Services",
         "title":  "Senior Consultant",
         "location":  "Oklahoma",
         "linkedin":  "https://www.linkedin.com/in/jenifer-vaught-742489274/",
@@ -1285,9 +1018,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Logan Hiskes",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/logan-hiskes/",
@@ -1295,9 +1026,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Martin You",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/martin-you1/",
@@ -1305,9 +1034,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Akshita Ponnuru",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/akshita-ponnuru/",
@@ -1315,9 +1042,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Hayden Keller",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/haydenmkeller/",
@@ -1325,9 +1050,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Lily Notes",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/lily-notes-593653265/",
@@ -1335,9 +1058,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Khushi Patel",
-        "serviceLines":  [
-                             "Quality"
-                         ],
+        "serviceLine":  "Quality",
         "title":  "Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/khushipatellll/",
@@ -1345,9 +1066,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Sanya Patel",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/sanya-patel-7340bb22b/",
@@ -1355,69 +1074,103 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Liam Ford",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/liam-ford-6075b1213/",
         "email":  "liam.ford@impact-advisors.com"
     },
     {
-        "name":  "Holly Ezell",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
-        "title":  "Director",
-        "location":  "Nashville",
-        "linkedin":  "https://www.linkedin.com/in/holly-ezell-b8338330/",
-        "email":  "Holly.ezell@impact-advisors.com"
-    },
-    {
         "name":  "Anya Mehta",
-        "serviceLines":  [
-                             "Labor"
-                         ],
+        "serviceLine":  "Labor",
         "title":  "Consultant",
         "location":  "Chicago",
         "linkedin":  "https://www.linkedin.com/in/anya-mehta-94209524a/",
         "email":  "anya.mehta@impact-advisors.com"
     },
     {
-        "name":  "Ellie Friedewald",
-        "serviceLines":  [
-                             "Other Margin Improvement"
-                         ],
+        "name":  "Holly Ezell",
+        "serviceLine":  "Revenue Cycle Margin Improvement",
+        "title":  "Director",
+        "location":  "Nashville",
+        "linkedin":  "https://www.linkedin.com/in/holly-ezell-b8338330/",
+        "email":  "Holly.ezell@impact-advisors.com"
+    },
+    {
+        "name":  "Melissa Lyden",
+        "serviceLine":  "Revenue Cycle Margin Improvement",
+        "title":  "Managing Consultant",
+        "location":  "Virginia",
+        "linkedin":  "https://www.linkedin.com/in/mjlyden/",
+        "email":  "melissa.lyden@impact-advisors.com"
+    },
+    {
+        "name":  "Abel Stephen",
+        "serviceLine":  "Other Margin Improvement",
         "title":  "Consultant",
         "location":  "Chicago",
-        "linkedin":  "https://www.linkedin.com/in/ellie-friedewald/",
-        "email":  "ellie.friedewald@impact-advisors.com"
+        "linkedin":  "https://www.linkedin.com/in/abel-stephen-2390a12ab/",
+        "email":  "abel.stephen@impact-advisors.com"
+    },
+    {
+        "name":  "Adrienne Olson",
+        "serviceLine":  "Labor",
+        "title":  "Director",
+        "location":  "Nebraska",
+        "linkedin":  "https://www.linkedin.com/in/adrienneolson11/",
+        "email":  "adrienne.olson@impact-advisors.com"
+    },
+    {
+        "name":  "Alexander Fessler",
+        "serviceLine":  "Revenue Cycle Margin Improvement",
+        "title":  "Senior Consultant",
+        "location":  "Illinois",
+        "linkedin":  "https://www.linkedin.com/in/alexander-fessler-570860174/",
+        "email":  "alexander.fessler@impact-advisors.com"
+    },
+    {
+        "name":  "Ally Meins",
+        "serviceLine":  "RCMI - Oracle Health",
+        "title":  "Consultant",
+        "location":  "Utah",
+        "linkedin":  "https://www.linkedin.com/in/allisonmeins/",
+        "email":  "allison.meins@impact-advisors.com"
     },
     {
         "name":  "Amanda Ruud",
-        "serviceLines":  [
-                             "Labor"
-                         ],
+        "serviceLine":  "Labor",
         "title":  "Managing Consultant",
         "location":  "Washington",
-        "linkedin":  "https://www.linkedin.com/in/amanda-ruud-msn-rn-cnor/",
+        "linkedin":  "https://www.linkedin.com/in/akruud/",
         "email":  "amanda.ruud@impact-advisors.com"
     },
     {
+        "name":  "Andrea Gutierrez Hernandez",
+        "serviceLine":  "RCMI - Oracle Health",
+        "title":  "Consultant",
+        "location":  "Mexico City",
+        "linkedin":  "https://www.linkedin.com/in/andrea-gutierrez-hernandez-45535b158/",
+        "email":  "andrea.gutierrez@impact-advisors.com"
+    },
+    {
         "name":  "Angela Velella",
-        "serviceLines":  [
-                             "Operational Excellence"
-                         ],
+        "serviceLine":  "Operational Excellence",
         "title":  "Associate Director",
         "location":  "Florida",
-        "linkedin":  "https://www.linkedin.com/in/angela-velella/",
+        "linkedin":  "https://www.linkedin.com/in/angelavelella/",
         "email":  "angela.velella@impact-advisors.com"
     },
     {
+        "name":  "Antonio Rico",
+        "serviceLine":  "Supply Chain",
+        "title":  "Consultant",
+        "location":  "Mexico City",
+        "linkedin":  "https://www.linkedin.com/in/antonio-rico-0005891b8/",
+        "email":  "antonio.rico@impact-advisors.com"
+    },
+    {
         "name":  "Austin Stonecash",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Managing Consultant",
         "location":  "Ohio",
         "linkedin":  "https://www.linkedin.com/in/austin-stonecash/",
@@ -1425,132 +1178,282 @@ window.CONNECT_HUB_EMPLOYEES = [
     },
     {
         "name":  "Ava Owens",
-        "serviceLines":  [
-                             "Other Margin Improvement"
-                         ],
+        "serviceLine":  "Other Margin Improvement",
         "title":  "Consultant",
         "location":  "Chicago",
-        "linkedin":  "https://www.linkedin.com/in/ava-owens/",
+        "linkedin":  "https://www.linkedin.com/in/ava-owens-939265254/",
         "email":  "ava.owens@impact-advisors.com"
     },
     {
         "name":  "Bella Brown",
-        "serviceLines":  [
-                             "Other Margin Improvement"
-                         ],
+        "serviceLine":  "Other Margin Improvement",
         "title":  "Consultant",
         "location":  "Chicago",
-        "linkedin":  "https://www.linkedin.com/in/bella-brown/",
+        "linkedin":  "https://www.linkedin.com/in/bella-brown84/",
         "email":  "isabella.brown@impact-advisors.com"
     },
     {
-        "name":  "Brennan Aguila",
-        "serviceLines":  [
-                             "Other Margin Improvement"
-                         ],
+        "name":  "Brennan Aquila",
+        "serviceLine":  "Other Margin Improvement",
         "title":  "Consultant",
         "location":  "Chicago",
-        "linkedin":  "https://www.linkedin.com/in/brennan-aguila/",
-        "email":  "brennan.aguila@impact-advisors.com"
+        "linkedin":  "https://www.linkedin.com/in/brennan-aquila/",
+        "email":  "brennan.aquila@impact-advisors.com"
     },
     {
         "name":  "Brooke Beccari",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Senior Consultant",
         "location":  "Chicago",
-        "linkedin":  "https://www.linkedin.com/in/brooke-beccari/",
+        "linkedin":  "https://www.linkedin.com/in/brooke-beccari-396267209/",
         "email":  "brooke.beccari@impact-advisors.com"
     },
     {
         "name":  "Chaitra Murthy",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Senior Consultant",
         "location":  "New York",
-        "linkedin":  "https://www.linkedin.com/in/chaitra-murthy/",
+        "linkedin":  "https://www.linkedin.com/in/chaimurthy/",
         "email":  "chaitra.murthy@impact-advisors.com"
     },
     {
         "name":  "Deeksha Sreenivasan",
-        "serviceLines":  [
-                             "Other Margin Improvement"
-                         ],
+        "serviceLine":  "Other Margin Improvement",
         "title":  "Consultant",
         "location":  "Chicago",
-        "linkedin":  "https://www.linkedin.com/in/deeksha-sreenivasan/",
+        "linkedin":  "https://www.linkedin.com/in/deekshasreenivasan/",
         "email":  "deeksha.sreenivasan@impact-advisors.com"
     },
     {
         "name":  "Deshelia Watson",
-        "serviceLines":  [
-                             "Revenue Cycle Margin Improvement"
-                         ],
+        "serviceLine":  "Revenue Cycle Margin Improvement",
         "title":  "Senior Consultant",
         "location":  "North Carolina",
-        "linkedin":  "https://www.linkedin.com/in/deshelia-watson/",
+        "linkedin":  "https://www.linkedin.com/in/deshelia-watson-mba-crcr-a9a8481/",
         "email":  "deshelia.watson@impact-advisors.com"
     },
     {
         "name":  "Drew Nicolaou",
-        "serviceLines":  [
-                             "Quality"
-                         ],
+        "serviceLine":  "Quality",
         "title":  "Consultant",
         "location":  "Indiana",
-        "linkedin":  "https://www.linkedin.com/in/andreas-nicolaou/",
+        "linkedin":  "",
         "email":  "andreas.nicolaou@impact-advisors.com"
     },
     {
+        "name":  "Eduardo De la Rosa",
+        "serviceLine":  "Revenue Cycle Margin Improvement",
+        "title":  "Consultant",
+        "location":  "Mexico City",
+        "linkedin":  "",
+        "email":  "eduardo.rosa@impact-advisors.com"
+    },
+    {
+        "name":  "Ellie Friedewald",
+        "serviceLine":  "Other Margin Improvement",
+        "title":  "Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/ellie-friedewald/",
+        "email":  "ellie.friedewald@impact-advisors.com"
+    },
+    {
         "name":  "Helen DeFlorin",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Associate Director",
         "location":  "Minnesota",
-        "linkedin":  "https://www.linkedin.com/in/helen-deflorin/",
+        "linkedin":  "https://www.linkedin.com/in/helen-deflorin-a1a5538/",
         "email":  "helen.deflorin@impact-advisors.com"
     },
     {
+        "name":  "Isha Shah",
+        "serviceLine":  "Operational Excellence",
+        "title":  "Consultant",
+        "location":  "Chicago",
+        "linkedin":  "",
+        "email":  "isha.shah@impact-advisors.com"
+    },
+    {
         "name":  "Jack Ryan",
-        "serviceLines":  [
-                             "Supply Chain"
-                         ],
+        "serviceLine":  "Supply Chain",
         "title":  "Managing Consultant",
         "location":  "Michigan",
-        "linkedin":  "https://www.linkedin.com/in/jack-ryan/",
+        "linkedin":  "https://www.linkedin.com/in/jack-ryan-592a33163/",
         "email":  "jack.ryan@impact-advisors.com"
     },
     {
         "name":  "Justus Stanback",
-        "serviceLines":  [
-                             "Physician Enterprise Services"
-                         ],
+        "serviceLine":  "Physician Enterprise Services",
         "title":  "Senior Consultant",
         "location":  "Florida",
-        "linkedin":  "https://www.linkedin.com/in/justus-stanback/",
+        "linkedin":  "https://www.linkedin.com/in/justusstanback/",
         "email":  "justus.stanback@impact-advisors.com"
     },
     {
         "name":  "Kate Walsh",
-        "serviceLines":  [
-                             "Quality"
-                         ],
+        "serviceLine":  "Quality",
         "title":  "Managing Consultant",
         "location":  "New Jersey",
-        "linkedin":  "https://www.linkedin.com/in/kate-walsh/",
+        "linkedin":  "https://www.linkedin.com/in/kate-walsh-cpc/",
         "email":  "kate.walsh@impact-advisors.com"
     },
     {
+        "name":  "Katy Good",
+        "serviceLine":  "Quality",
+        "title":  "Associate Director",
+        "location":  "Arizona",
+        "linkedin":  "https://www.linkedin.com/in/katy-good-83453671/",
+        "email":  "katy.good@impact-advisors.com"
+    },
+    {
+        "name":  "Kelsey Hillebrand",
+        "serviceLine":  "Labor",
+        "title":  "Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/kelsey-hillebrand3/",
+        "email":  "Kelsey.Hillebrand@impact-advisors.com"
+    },
+    {
+        "name":  "Landon Eiland",
+        "serviceLine":  "Other Margin Improvement",
+        "title":  "Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/landon-eiland/",
+        "email":  "landon.eiland@impact-advisors.com"
+    },
+    {
+        "name":  "Mary Moore",
+        "serviceLine":  "S\u0026O Admin",
+        "title":  "Recruiter",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/mary-moore-74a8b3192/",
+        "email":  "mary.moore@impact-advisors.com"
+    },
+    {
+        "name":  "Liz Sopel",
+        "serviceLine":  "S\u0026O Admin",
+        "title":  "Talent Director",
+        "location":  "California",
+        "linkedin":  "https://www.linkedin.com/in/lizsopel/",
+        "email":  "liz.sopel@impact-advisors.com"
+    },
+    {
+        "name":  "Luz Ortiz",
+        "serviceLine":  "Quality",
+        "title":  "Consultant",
+        "location":  "Mexico City",
+        "linkedin":  "https://www.linkedin.com/in/luz-elizabeth-ortiz-775b13137/",
+        "email":  "luz.ortiz@impact-advisors.com"
+    },
+    {
+        "name":  "Maddie Kagan",
+        "serviceLine":  "Other Margin Improvement",
+        "title":  "Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/maddiekagan/",
+        "email":  "maddie.kagan@impact-advisors.com"
+    },
+    {
+        "name":  "Mariela Basurto",
+        "serviceLine":  "Supply Chain",
+        "title":  "Consultant",
+        "location":  "Mexico City",
+        "linkedin":  "https://www.linkedin.com/in/marielabasurtog/",
+        "email":  "mariela.basurto@impact-advisors.com"
+    },
+    {
+        "name":  "Matthew Krauss",
+        "serviceLine":  "Labor",
+        "title":  "Managing Consultant",
+        "location":  "Florida",
+        "linkedin":  "https://www.linkedin.com/in/matthew-w-krauss/",
+        "email":  "matthew.krauss@impact-advisors.com"
+    },
+    {
+        "name":  "Morgan Bagwell",
+        "serviceLine":  "Other Margin Improvement",
+        "title":  "Associate Director",
+        "location":  "North Carolina",
+        "linkedin":  "https://www.linkedin.com/in/morgan-reitz/",
+        "email":  "morgan.bagwell@impact-advisors.com"
+    },
+    {
+        "name":  "Oscar Narvaez Dardon",
+        "serviceLine":  "Payer Practice",
+        "title":  "Consultant",
+        "location":  "Mexico City",
+        "linkedin":  "https://www.linkedin.com/in/oscar-narvaez-dardon-2a6a24195/",
+        "email":  "oscar.narvaez@impact-advisors.com"
+    },
+    {
+        "name":  "Phillip Bonsu",
+        "serviceLine":  "Other Margin Improvement",
+        "title":  "Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/phillipbonsu/",
+        "email":  "phillip.bonsu@impact-advisors.com"
+    },
+    {
+        "name":  "Rodrigo Rubio",
+        "serviceLine":  "Supply Chain",
+        "title":  "Consultant",
+        "location":  "Mexico City",
+        "linkedin":  "https://www.linkedin.com/in/rodrigo-david-rubio-garc%C3%ADa/",
+        "email":  "rrubio@impact-advisors.com"
+    },
+    {
         "name":  "Ryan McPherson",
-        "serviceLines":  [
-                             "Other Margin Improvement"
-                         ],
+        "serviceLine":  "Other Margin Improvement",
         "title":  "Managing Director",
         "location":  "Georgia",
-        "linkedin":  "https://www.linkedin.com/in/ryan-mcpherson/",
+        "linkedin":  "https://www.linkedin.com/in/mcpherson-ryan/",
         "email":  "ryan.mcpherson@impact-advisors.com"
+    },
+    {
+        "name":  "Sharon de Waard",
+        "serviceLine":  "Other Margin Improvement",
+        "title":  "Associate Director",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/sharon-de-waard-16962a3/",
+        "email":  "sharonkowar.dewaard@impact-advisors.com"
+    },
+    {
+        "name":  "Talia Katzke",
+        "serviceLine":  "Other Margin Improvement",
+        "title":  "Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/talia-katzke/",
+        "email":  "talia.katzke@impact-advisors.com"
+    },
+    {
+        "name":  "Thomas Simmons",
+        "serviceLine":  "RCMI - Oracle Health",
+        "title":  "Consultant",
+        "location":  "Missouri",
+        "linkedin":  "https://www.linkedin.com/in/thomassimmons24/",
+        "email":  "thomas.simmons@impact-advisors.com"
+    },
+    {
+        "name":  "Tiana Nikkhoo",
+        "serviceLine":  "Other Margin Improvement",
+        "title":  "Consultant",
+        "location":  "Chicago",
+        "linkedin":  "https://www.linkedin.com/in/tiana-nikkhoo/",
+        "email":  "tiana.nikkhoo@impact-advisors.com"
+    },
+    {
+        "name":  "Tomas Reyes",
+        "serviceLine":  "Supply Chain",
+        "title":  "Consultant",
+        "location":  "Florida",
+        "linkedin":  "https://www.linkedin.com/in/tomas-reyes/",
+        "email":  "tomas.reyes@impact-advisors.com"
+    },
+    {
+        "name":  "William Posey",
+        "serviceLine":  "RCMI - Oracle Health",
+        "title":  "Associate Director",
+        "location":  "Florida",
+        "linkedin":  "https://www.linkedin.com/in/williamposey/",
+        "email":  "william.posey@impact-advisors.com"
     }
 ];
