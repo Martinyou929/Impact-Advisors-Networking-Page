@@ -373,7 +373,18 @@ function Import-WorksheetRows {
       return @($consolidated)
     }
 
-    return @($records)
+    return @(
+      $records | ForEach-Object {
+        [ordered]@{
+          name = $_.name
+          serviceLines = @($_.serviceLine | Where-Object { -not [string]::IsNullOrWhiteSpace($_) })
+          title = $_.title
+          location = $_.location
+          linkedin = $_.linkedin
+          email = $_.email
+        }
+      }
+    )
   }
   finally {
     $archive.Dispose()

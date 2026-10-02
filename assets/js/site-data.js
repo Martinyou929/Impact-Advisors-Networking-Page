@@ -46,7 +46,7 @@ function prepareEmployees(rows) {
     const person = {
       name: clean(row.name),
       title: clean(row.title),
-      serviceLines: [...new Set((Array.isArray(row.serviceLines) ? row.serviceLines : []).map(clean).filter(Boolean))],
+      serviceLines: [...new Set((Array.isArray(row.serviceLines) ? row.serviceLines : [row.serviceLine]).map(clean).filter(Boolean))],
       location: clean(row.location),
       email: clean(row.email),
       linkedin: clean(row.linkedin)
