@@ -766,7 +766,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "Ryan Smith",
         "serviceLines":  [
-                             "Revenu Cycle Margin Improvement - Oracle Health"
+                             "RCMI - Oracle Health"
                          ],
         "title":  "Managing Director",
         "location":  "Oklahoma",
@@ -776,7 +776,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "Zach Johnson",
         "serviceLines":  [
-                             "Revenu Cycle Margin Improvement - Oracle Health"
+                             "RCMI - Oracle Health"
                          ],
         "title":  "Director",
         "location":  "Wisconsin",
@@ -786,7 +786,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "Nick Stipanovich",
         "serviceLines":  [
-                             "Revenu Cycle Margin Improvement - Oracle Health"
+                             "RCMI - Oracle Health"
                          ],
         "title":  "Director",
         "location":  "Montana",
@@ -796,7 +796,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "Evan McAfee",
         "serviceLines":  [
-                             "Revenu Cycle Margin Improvement - Oracle Health"
+                             "RCMI - Oracle Health"
                          ],
         "title":  "Associate Director",
         "location":  "Montana",
@@ -806,7 +806,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "Andrea Chancellor",
         "serviceLines":  [
-                             "Revenu Cycle Margin Improvement - Oracle Health"
+                             "RCMI - Oracle Health"
                          ],
         "title":  "Associate Director",
         "location":  "Montana",
@@ -816,7 +816,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "Quin Oglesby",
         "serviceLines":  [
-                             "Revenu Cycle Margin Improvement - Oracle Health"
+                             "RCMI - Oracle Health"
                          ],
         "title":  "Associate Director",
         "location":  "Florida",
@@ -826,7 +826,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "Justin Gilliam",
         "serviceLines":  [
-                             "Revenu Cycle Margin Improvement - Oracle Health"
+                             "RCMI - Oracle Health"
                          ],
         "title":  "Associate Director",
         "location":  "Michigan",
@@ -836,7 +836,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "David Klinkhardt",
         "serviceLines":  [
-                             "Revenu Cycle Margin Improvement - Oracle Health"
+                             "RCMI - Oracle Health"
                          ],
         "title":  "Managing Consultant",
         "location":  "Kansas",
@@ -846,7 +846,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "Brett Reynolds",
         "serviceLines":  [
-                             "Revenu Cycle Margin Improvement - Oracle Health"
+                             "RCMI  - Oracle Health"
                          ],
         "title":  "Managing Consultant",
         "location":  "Chicago",
@@ -856,7 +856,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "Michael Cusick",
         "serviceLines":  [
-                             "Revenu Cycle Margin Improvement - Oracle Health"
+                             "RCMI - Oracle Health"
                          ],
         "title":  "Managing Consultant",
         "location":  "Texas",
@@ -866,7 +866,7 @@ window.CONNECT_HUB_EMPLOYEES = [
     {
         "name":  "Josh Lake",
         "serviceLines":  [
-                             "Revenu Cycle Margin Improvement - Oracle Health"
+                             "RCMI - Oracle Health"
                          ],
         "title":  "Senior Consultant",
         "location":  "Pennsylvania",
